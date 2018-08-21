@@ -13,6 +13,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'shoulda'
   gem 'rake'
+  gem 'flash_rails_messages'
 end
 
 group :development do
